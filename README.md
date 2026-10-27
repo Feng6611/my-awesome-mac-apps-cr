@@ -23,6 +23,7 @@ Here are diverse apps without any specific audience.
 - [Bartender](https://www.macbartender.com) – Organize your menu bar icons
 - [The Unarchiver](https://macpaw.com/the-unarchiver) – Unpack any archive, in no time
 - [AppCleaner](https://freemacsoft.net/appcleaner/) – Small application which allows you to thoroughly uninstall unwanted apps
+- [Command Reopen](https://commandreopen.com/) – Makes Cmd+Tab restore minimized and closed windows with zero permissions
 - [Keka](https://www.keka.io/) – The macOS file archiver
 - [DaisyDisk](https://daisydiskapp.com) – Analyze disk usage and free up disk space on Mac
 - [KeeWeb](https://keeweb.info) – Free cross-platform password manager compatible with KeePass
